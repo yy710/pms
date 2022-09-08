@@ -18,7 +18,7 @@
   "homepage": "https://github.com/yy710/pms#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mammoth": "^1.4.8",
+    "mammoth": "^1.5.1",
     "mongodb": "^3.3.2",
     "multer": "^1.4.2",
     "psd": "^3.2.0",
